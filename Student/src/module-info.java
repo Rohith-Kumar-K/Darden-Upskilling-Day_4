@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rohikn
- *
- */
-module Student {
-}
